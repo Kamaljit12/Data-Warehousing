@@ -1,4 +1,6 @@
-# dimension table and fact table
+# Data Modelling Concepts - Star Schema
+
+## dimension table and fact table
 
     create database sales;
     use sales;
