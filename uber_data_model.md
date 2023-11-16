@@ -1,5 +1,6 @@
 # Design Data Model for Uber
 <img src='https://github.com/Kamaljit12/Data-Warehousing/blob/main/png/uber.jpg'>
+
 ### First let’s understand the important business metrics which we need to derive from the data model:
 
 1. Average ride duration and distance per city.
