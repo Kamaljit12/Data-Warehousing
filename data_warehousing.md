@@ -1,4 +1,6 @@
-# Dimension table and fact table
+# Data Modelling Concepts - Star Schema
+
+## Dimension table and fact table
 <img src = 'https://github.com/Kamaljit12/Data-Warehousing/blob/main/dim_fact.jpg'>
 ## database name Transaction
       create database Transaction
