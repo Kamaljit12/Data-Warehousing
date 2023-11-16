@@ -143,5 +143,7 @@
         
     select * from fact_transaction;
 
+# Data Modelling Concepts - Snowflake Schema
 
+<img = src = 'https://github.com/Kamaljit12/Data-Warehousing/blob/main/snowfleck.jpg'>
 
