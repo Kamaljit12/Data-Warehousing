@@ -1,7 +1,7 @@
 # Data Modelling Concepts - Star Schema
 
 ## Dimension table and fact table
-<img src = 'https://github.com/Kamaljit12/Data-Warehousing/blob/main/dim_fact.jpg'>
+<img src = 'https://github.com/Kamaljit12/Data-Warehousing/blob/main/png/dim_fact.jpg'>
 ## database name Transaction
       create database Transaction
 
@@ -145,5 +145,5 @@
 
 # Data Modelling Concepts - Snowflake Schema
 
-<img src = 'https://github.com/Kamaljit12/Data-Warehousing/blob/main/snowfleck.jpg'>
+<img src = 'https://github.com/Kamaljit12/Data-Warehousing/blob/main/png/snowfleck.jpg'>
 
