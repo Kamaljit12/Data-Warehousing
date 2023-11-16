@@ -16,7 +16,7 @@
 ## Design Data Model for Uber
 - ### Now prepare dimension tables:
 
-<img src='https://github.com/Kamaljit12/Data-Warehousing/blob/main/png/uber.jpg'>
+<img src='https://github.com/Kamaljit12/Data-Warehousing/blob/main/png/uber_model_1.jpg'>
 
 # Design Data Model for Uber
 #### RideStatus table should be Dimension table or Fact?
